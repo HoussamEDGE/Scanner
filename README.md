@@ -1,6 +1,7 @@
 "# Scanner" 
 
 pip install requests
+
 pip install tkinter
 
 Screenshots :
